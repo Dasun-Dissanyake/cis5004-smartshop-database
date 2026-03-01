@@ -1,0 +1,35 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Laptop Pro 15",
+    "reviews": [
+      {
+        "review_id": "r1",
+        "user": "Alice",
+        "rating": 5,
+        "comment": "Super fast, exactly what I needed for video editing.",
+        "date": "2023-09-20"
+      },
+      {
+        "review_id": "r2",
+        "user": "Bob",
+        "rating": 4,
+        "comment": "Battery life could be better, but performance is top-notch.",
+        "date": "2023-09-25"
+      }
+    ]
+  },
+  {
+    "product_id": 2,
+    "product_name": "Wireless Mouse",
+    "reviews": [
+      {
+        "review_id": "r3",
+        "user": "Charlie",
+        "rating": 5,
+        "comment": "Very comfortable for long hours.",
+        "date": "2023-09-28"
+      }
+    ]
+  }
+]
