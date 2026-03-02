@@ -1,0 +1,27 @@
+[
+    {
+        "timestamp": "2023-10-01T10:00:00Z",
+        "event": "page_view",
+        "url": "/home",
+        "user_id": 1,
+        "browser": "Chrome",
+        "device": "Desktop"
+    },
+    {
+        "timestamp": "2023-10-01T10:05:00Z",
+        "event": "add_to_cart",
+        "product_id": 1,
+        "quantity": 1,
+        "session_id": "abc-123"
+    },
+    {
+        "timestamp": "2023-10-01T10:10:00Z",
+        "event": "error",
+        "error_code": 500,
+        "message": "Payment gateway timeout",
+        "context": {
+            "provider": "Stripe",
+            "attempt": 1
+        }
+    }
+]

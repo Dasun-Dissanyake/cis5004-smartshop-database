@@ -1,0 +1,26 @@
+[
+  {
+    "customer_id": 1,
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john.doe@email.com",
+    "region": "Colombo",
+    "registered_date": "2023-01-15"
+  },
+  {
+    "customer_id": 2,
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "email": "jane.s@email.com",
+    "region": "Galle",
+    "registered_date": "2023-02-20"
+  },
+  {
+    "customer_id": 3,
+    "first_name": "Aruna",
+    "last_name": "Perera",
+    "email": "aruna.p@email.com",
+    "region": "Kandy",
+    "registered_date": "2023-03-05"
+  }
+]

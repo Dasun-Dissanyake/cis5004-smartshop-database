@@ -1,0 +1,62 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Laptop Pro 15",
+    "category": "Electronics",
+    "price": 1500.00,
+    "stock": 20,
+    "reviews": [
+      {
+        "user": "Alice",
+        "rating": 5,
+        "comment": "Super fast, exactly what I needed for video editing.",
+        "date": "2023-09-20"
+      },
+      {
+        "user": "Bob",
+        "rating": 4,
+        "comment": "Battery life could be better, but performance is top-notch.",
+        "date": "2023-09-25"
+      }
+    ]
+  },
+  {
+    "product_id": 2,
+    "product_name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 25.00,
+    "stock": 100,
+    "reviews": [
+      {
+        "user": "Charlie",
+        "rating": 5,
+        "comment": "Very comfortable for long hours.",
+        "date": "2023-09-28"
+      }
+    ]
+  },
+  {
+    "product_id": 3,
+    "product_name": "Coffee Maker",
+    "category": "Appliances",
+    "price": 80.00,
+    "stock": 15,
+    "reviews": []
+  },
+  {
+    "product_id": 4,
+    "product_name": "Running Shoes",
+    "category": "Apparel",
+    "price": 60.00,
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "product_id": 5,
+    "product_name": "Smart Watch",
+    "category": "Electronics",
+    "price": 200.00,
+    "stock": 30,
+    "reviews": []
+  }
+]
